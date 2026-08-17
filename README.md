@@ -91,3 +91,7 @@ src
 ├── stylesAccessories       * Some common function.
 ├── index.tsx               * Entry point of the application.
 ```
+
+## License
+
+Licensed under the Apache License, Version 2.0. See [LICENSE](LICENSE) for details.
